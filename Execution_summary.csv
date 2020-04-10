@@ -1,0 +1,4 @@
+,date_time,symbol,direction,quantity,order_price,return_profit,return_profit_pct
+0,2016-11-23,AAPL,LONG,943,[106.00240326],,
+0,2019-03-07,AAPL,EXIT,943,[170.27131653],60605.58521270752,0.6062967564220592
+0,2019-06-10,AAPL,LONG,841,[190.82392883],,
