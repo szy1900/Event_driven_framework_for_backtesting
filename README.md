@@ -1,5 +1,5 @@
 # Event_driven_framework_for_backtesting
-It is suitable for beginners. <strong>Please run the AAPL.py(strong) The code is fully inspired by following articals:  
+It is suitable for beginners. <strong>Please run the AAPL.py(strong) The code is fully inspired by following articles:  
 
 [Event-Driven Backtesting with Python - Part I](https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/)<br/>
 [Event-Driven Backtesting with Python - Part II](https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-II)<br/>
