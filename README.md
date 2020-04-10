@@ -1,5 +1,5 @@
 # Event_driven_framework_for_backtesting
-It is suitable for beginners. The code is fully inspired by the 
+It is suitable for beginners. <strong>Please run the AAPL.py(strong) The code is fully inspired by following articals:  
 
 [Event-Driven Backtesting with Python - Part I](https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-I/)<br/>
 [Event-Driven Backtesting with Python - Part II](https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-II)<br/>
@@ -10,7 +10,7 @@ It is suitable for beginners. The code is fully inspired by the
 [Event-Driven Backtesting with Python - Part VII](https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-VII)<br/>
 [Event-Driven Backtesting with Python - Part VIII](https://www.quantstart.com/articles/Event-Driven-Backtesting-with-Python-Part-VIII)<br/>
 
-Please run the AAPL.py 
+
 ![Output_image](https://github.com/szy1900/Event_driven_framework_for_backtesting/blob/master/Images/myplot.png)
 
 After runing, a summarization file will be generated as Execution_summary.csv
