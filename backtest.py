@@ -18,8 +18,8 @@ class Backtest(object):
 
     def __init__(
             self, csv_dir, symbol_list, initial_capital,
-            heartbeat, start_date, data_handler,
-            execution_handler, portfolio, strategy
+            heartbeat, start_date, data_handler_cls,
+            execution_handler_cls, portfolio_cls, strategy_cls
     ):
         self.csv_dir = csv_dir
         self.symbol_list = symbol_list
@@ -27,10 +27,10 @@ class Backtest(object):
         self.heartbeat = heartbeat
         self.start_date = start_date
 
-        self.data_handler_cls = data_handler
-        self.execution_handler_cls = execution_handler
-        self.portfolio_cls = portfolio
-        self.strategy_cls = strategy
+        self.data_handler_cls = data_handler_cls
+        self.execution_handler_cls = execution_handler_cls
+        self.portfolio_cls = portfolio_cls
+        self.strategy_cls = strategy_cls
 
         self.events = queue.Queue()
 

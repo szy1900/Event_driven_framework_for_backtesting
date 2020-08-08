@@ -4,7 +4,6 @@
 from __future__ import print_function
 
 from abc import ABCMeta, abstractmethod
-import datetime
 import os, os.path
 
 import numpy as np
