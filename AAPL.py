@@ -43,6 +43,7 @@ class My_portfolio(Portfolio):
         return order
 
 if __name__ == "__main__":
+    print('text')
     path1 = os.path.abspath('.')
     csv_dir = 'data_csv'
     csv_dir = os.path.join(path1,csv_dir)
