@@ -47,7 +47,7 @@ class Backtest(object):
         Generate all the instances associated with the trading: data handler, strategy  and execution_handler instance
         """
         print(
-            "Creating DataHandler,Strategy,Portfolio and ExecutionHandler"
+            "Creating DataHandler,Strategy,Portfolio and ExecutionHandler/n"
         )
         # print("strategy parameter list:%s..." % strategy_params_dict)
         self.data_handler = self.data_handler_cls(self.events, self.csv_dir,
